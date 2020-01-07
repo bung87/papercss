@@ -1,7 +1,7 @@
 'use strict';
 
 const gulp = require('gulp'),
-      sass = require('gulp-sass'),
+      sass = require('gulp-dart-sass'),
       cleanCSS = require('gulp-clean-css'),
       rename = require('gulp-rename'),
       exec = require('child_process').execFile,
