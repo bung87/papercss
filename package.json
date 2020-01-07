@@ -1,5 +1,5 @@
 {
-  "name": "papercss",
+  "name": "@bung87/papercss",
   "version": "1.6.1",
   "description": "The less formal CSS framework.",
   "main": "index.js",
